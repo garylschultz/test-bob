@@ -8,3 +8,6 @@ Now Alice is working on feature "a".
 Now Alice is done working on feature "a".
 
 Bob doing release 2020-06-19b.
+
+Ad-hoc run from Alice/production.
+Mod during ad-hoc release.
