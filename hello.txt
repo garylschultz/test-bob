@@ -6,3 +6,5 @@ Now Alice is working on feature "a".
     Alice working on feature "b".
     Feature "b" done.
 Now Alice is done working on feature "a".
+
+Bob doing release 2020-06-19b.
