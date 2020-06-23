@@ -7,7 +7,9 @@ Now Alice is working on feature "a".
     Feature "b" done.
 Now Alice is done working on feature "a".
 
-Bob doing release 2020-06-19b.
 
-Ad-hoc run from Alice/production.
-Mod during ad-hoc release.
+Deploying.
+
+razzle dazzle
+
+Ad hoc 27.
